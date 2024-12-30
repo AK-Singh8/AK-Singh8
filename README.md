@@ -1,4 +1,4 @@
-![Header](https://asset.cloudinary.com/dedselvc3/c1509539ed83d4c93ec0869ca9b12ec5) <!-- Replace with your actual image URL -->
+![Header]([https://asset.cloudinary.com/dedselvc3/c1509539ed83d4c93ec0869ca9b12ec5](https://github.com/AK-Singh8/AK-Singh8/blob/main/banner.png)) <!-- Replace with your actual image URL -->
 
 
 # 💫 About Me:
