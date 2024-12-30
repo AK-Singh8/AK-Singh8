@@ -1,3 +1,5 @@
+<img src="https://asset.cloudinary.com/dedselvc3/c1509539ed83d4c93ec0869ca9b12ec5" alt="Header Image" style="width:100%;"/>
+
 # 💫 About Me:
 🔭 I’m currently working on Astroplasty<br><br>🌱 I’m currently learning App development<br><br>👨‍💻 All of my projects are available at https://avesh-singh.vercel.app/<br><br>📫 How to reach me aveshkumarsingh8@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1TkU-zW9_wppjggtuF9dQ3m2C_wvn8r3N/view
 
